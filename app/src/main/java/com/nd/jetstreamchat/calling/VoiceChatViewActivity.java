@@ -263,7 +263,7 @@ public class VoiceChatViewActivity extends AppCompatActivity {
     // Tutorial Step 1
     private void initializeAgoraEngine() {
         try {
-            mRtcEngine = RtcEngine.create(getBaseContext(), "c1c97c5448d84339b498f29b4f49c6f8", mRtcEventHandler);
+            mRtcEngine = RtcEngine.create(getBaseContext(), "cb59c8dd994e4e119bacbae9864eb7ad", mRtcEventHandler);
         } catch (Exception e) {
             Timber.e(Log.getStackTraceString(e));
 

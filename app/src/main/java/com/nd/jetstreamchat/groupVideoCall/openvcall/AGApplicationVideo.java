@@ -58,7 +58,7 @@ public class AGApplicationVideo extends GlobalApplication {
 
     private void createRtcEngine() {
         Context context = getApplicationContext();
-        String appId = "c1c97c5448d84339b498f29b4f49c6f8";
+        String appId = "cb59c8dd994e4e119bacbae9864eb7ad";
         if (TextUtils.isEmpty(appId)) {
             throw new RuntimeException("NEED TO use your App ID, get your own ID at https:dashboard.agora.io/");
         }

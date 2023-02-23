@@ -20,7 +20,7 @@
     </queries>
 
     <application
-        android:name="com.nd.jetstreamchat.NetworkSecurity"
+        android:name="com.nd.jetstreamchat.groupVideoCall.openvcall.AGApplicationVideo"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
