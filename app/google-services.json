@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "542413392613",
+    "project_id": "jetstreamchat",
+    "storage_bucket": "jetstreamchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542413392613:android:831c731382446d1632620c",
+        "android_client_info": {
+          "package_name": "com.nd.jetstreamchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542413392613-nml1trjsl4os2crpne8253dg6sfkop1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nd.jetstreamchat",
+            "certificate_hash": "104c4a4e547fc36162982230dac23a588bac5d6c"
+          }
+        },
+        {
+          "client_id": "542413392613-fsk2coquonbqrbr55p4eo4vimkc7uq6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvR85eLCpPFQaZDrNLDAw5sDablEVlEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542413392613-fsk2coquonbqrbr55p4eo4vimkc7uq6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
